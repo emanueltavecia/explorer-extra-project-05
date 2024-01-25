@@ -11,25 +11,25 @@ button.addEventListener('click', screenToggle)
 document.addEventListener('keydown', enterEvent)
 
 const messages = [
-  'Se alguém está tão cansado que não possa te dar um sorriso, deixa-lhe o teu.',
+  "If someone is so tired that they can't give you a smile, give them yours.",
 
-  'Às vezes, a melhor maneira de resolver um problema é dar um passo para trás e enxergar a situação de outra perspectiva.',
+  'Sometimes the best way to solve a problem is to take a step back and look at the situation from another perspective.',
 
-  'A vida é como um grande quebra-cabeça, e cada desafio é uma peça que nos ajuda a construir a imagem completa.',
+  'Life is like a big puzzle, and each challenge is a piece that helps us build the complete picture.',
 
-  'Não importa o quão difícil seja o caminho, o importante é dar um passo de cada vez na direção certa.',
+  'No matter how difficult the path is, the important thing is to take one step at a time in the right direction.',
 
-  'Cada novo dia é uma oportunidade para aprender algo novo e fazer pequenas melhorias em nós mesmos.',
+  'Every new day is an opportunity to learn something new and make small improvements to ourselves.',
 
-  'Assim como um programador debuga seu código, podemos analisar nossas vidas para identificar e corrigir desafios.',
+  'Just as a programmer debugs his code, we can analyze our lives to identify and fix challenges.',
 
-  'Na jornada da vida, nem sempre o caminho mais fácil é o mais gratificante. Os desafios nos moldam e nos fazem crescer.',
+  'On the journey of life, the easiest path is not always the most rewarding. Challenges shape us and make us grow.',
 
-  'Assim como no mundo da programação, é essencial manter-se atualizado na "linguagem" da vida para lidar com as constantes atualizações.',
+  'Just like in the world of programming, it is essential to stay up to date in the "language" of life to deal with constant updates.',
 
-  'Cada desafio é uma oportunidade disfarçada. Às vezes, é preciso procurar além das dificuldades para encontrar a lição valiosa.',
+  'Every challenge is an opportunity in disguise. Sometimes you have to look beyond the difficulties to find the valuable lesson.',
 
-  'À medida que avançamos, lembramo-nos de que o progresso muitas vezes ocorre fora da zona de conforto. Arrisque-se e descubra novos horizontes.',
+  'As we move forward, we remember that progress often occurs outside of our comfort zone. Take risks and discover new horizons.',
 ]
 
 function screenToggle() {
